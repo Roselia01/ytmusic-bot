@@ -2,7 +2,7 @@
 5 hours of work to create a free, working Youtube Music bot. That is all it plays is music from youtube.
 
 # -  Installation  -
-Recommended 
+Recommended IDE is VS Code!
  
 # 1. Install dependencies!
     To install dependencies, open a terminal in python and type:
