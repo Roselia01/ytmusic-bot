@@ -8,6 +8,10 @@ Recommended IDE is VS Code!
     To install dependencies, open a terminal in python and type:
     pip install discord
     pip install yt_dlp
+    pip install python-dotenv
+    pip install PyNaCl
+
+    (If 'pip install' isn't working, try 'py -m pip install package_name' instead!)
 
     Some dependencies like FFMPEG require a seperate method to install.
     https://youtu.be/JR36oH35Fgg - This video can explain intalling FFMPEG better than I ever could.
